@@ -1,7 +1,5 @@
-# List of alias of Bash keywords in Bahasa Indonesia
-#
-# @author Rio Astamal <rio@rioastamal.net>
-# @license MIT
+
+
 
 # Generated using `compgen -k`
 alias jika=if
